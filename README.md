@@ -2,11 +2,11 @@
     <tr>
         <td>
           
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kanchii&show_icons=true&theme=radical&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kanchii&count_private=true&show_icons=true&theme=radical)
         </td>
         <td>
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kanchii)](https://github.com/kanchii/kanchii) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kanchii&count_private=true)](https://github.com/kanchii/kanchii) 
         </td>
     </tr>
 </table>
