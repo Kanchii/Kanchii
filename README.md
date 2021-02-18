@@ -2,11 +2,11 @@
     <tr>
         <td>
           
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arielsilveira&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kanchii&show_icons=true&theme=radical)
         </td>
         <td>
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arielsilveira&exclude_repo=ModalLogic)](https://github.com/arielsilveira/arielsilveira) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kanchii)](https://github.com/kanchii/kanchii) 
         </td>
     </tr>
 </table>
