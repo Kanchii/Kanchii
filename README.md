@@ -2,7 +2,7 @@
     <tr>
         <td>
           
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kanchii&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kanchii&show_icons=true&theme=radical&count_private=true)
         </td>
         <td>
   
